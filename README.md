@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @spook-tgrannum
-- 👀 I’m interested in ...Software Engineering/Machine-Learning
-- 🌱 I’m currently learning ...Full stack web development
-- 💞️ I’m looking to collaborate on ...Websites, Bots
-- 📫 How to reach me ...email - theresa.grannum@gmail.com
+- 👀 I’m interested in ...<b>oftware Engineering/Machine-Learning</b>
+- 🌱 I’m currently learning ...<b>Full stack web development</b>
+- 💞️ I’m looking to collaborate on ...<b>Websites, Bots</b>
+- 📫 How to reach me ...<b>email - theresa.grannum@gmail.com</b>
 
 <!---
 spook-tgrannum/spook-tgrannum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
