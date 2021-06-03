@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @spook-tgrannum
-- 👀 I’m interested in ...<b>oftware Engineering/Machine-Learning</b>
+- 👀 I’m interested in ...<b>Software Engineering/Machine-Learning</b>
 - 🌱 I’m currently learning ...<b>Full stack web development</b>
 - 💞️ I’m looking to collaborate on ...<b>Websites, Bots</b>
 - 📫 How to reach me ...<b>email - theresa.grannum@gmail.com</b>
