@@ -1,4 +1,4 @@
-- 👋 Hi, I’m  👻<b>@spook-tgrannum</b>👻
+- 👋 Hi, I’m  👻<b>tgrannum</b>👻
 - 👀 I’m interested in ...<b>Software Engineering/Machine-Learning</b>
 - 🌱 I’m currently learning ...<b>Full stack web development</b>
 - 💞️ I’m looking to collaborate on ...<b>Websites, Bots</b>
